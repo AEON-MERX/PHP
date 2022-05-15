@@ -14,16 +14,16 @@
            <br>
            <div class="row">
                <div class="col-md-3">
-                     <a href="./proyecto1.php/" class="btn btn-primary btn-block">Solucion 1</a>
+                     <a href="./proyecto1.php/" class="btn btn-primary btn-block">Solucion 1.</a>
                </div>
                <div class="col-md-3">
-                     <a href="./proyecto2.php/" class="btn btn-primary btn-block">Solucion 2</a>
+                     <a href="./proyecto2.php/" class="btn btn-primary btn-block">Solucion 2.</a>
                </div>
                <div class="col-md-3">
-                     <a href="./proyecto3.php" class="btn btn-primary btn-block">Solucion 3</a>
+                     <a href="./proyecto3.php" class="btn btn-primary btn-block">Solucion 3.</a>
                </div>
                <div class="col-md-3">
-                     <a href="./proyecto4.php/" class="btn btn-primary btn-block">Solucion 4</a>
+                     <a href="./proyecto4.php/" class="btn btn-primary btn-block">Solucion 4.</a>
                </div>
            </div>
        </div>
